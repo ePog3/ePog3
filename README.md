@@ -1,7 +1,7 @@
 ### <div align="center">Hello from ePog, dear friends !</div>  
   
 
-- 🌱 I’m junior dev and currently learning Solidity and Golang  
+- 🌱 I’m junior dev and currently learning Solidity and Golang ! 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
